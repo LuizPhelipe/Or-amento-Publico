@@ -50,7 +50,7 @@ Código Grupo de Despesa : Item da estrutura da classificação da despesa que i
 
 Nome Grupo de Despesa : Nome do grupo de despesa.
 
-<n>Código Elemento de Despesa</n> : Identificador dos objetos de gasto, tais como vencimentos e vantagens fixas, juros, diárias, material de consumo, serviços de terceiros prestados sob qualquer forma, subvenções sociais, obras e instalações, equipamentos e material permanente, auxílios, amortização e outros que a Administração Pública utiliza para a consecução de seus fins.
+Código Elemento de Despesa : Identificador dos objetos de gasto, tais como vencimentos e vantagens fixas, juros, diárias, material de consumo, serviços de terceiros prestados sob qualquer forma, subvenções sociais, obras e instalações, equipamentos e material permanente, auxílios, amortização e outros que a Administração Pública utiliza para a consecução de seus fins.
 
 Nome Elemento de Despesa : 	Nome do Elemento de Despesa.
 
